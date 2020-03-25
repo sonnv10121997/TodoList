@@ -1,9 +1,8 @@
 import React from 'react'
+import Dashboard from './components/dashboard/dashboard'
 
 export default function App() {
   return (
-    <div>
-      <h1>Hello World! This is working from front end side!</h1>
-    </div>
+    <Dashboard />
   )
 }
